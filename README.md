@@ -10,8 +10,10 @@
 - **课程时间**：2025年2月27日
 - **课程助教**：杨旖纯
 - **课程PPT**：[第1次课PPT链接](#)
-- **推荐阅读**：
-  - TBD
+- **推荐学习资源**：
+  - 斯坦福大学[CS231n](https://cs231n.stanford.edu/)课程，Deep Learning for Computer Vision，李飞飞
+  - [《深度学习》花书](https://github.com/exacity/deeplearningbook-chinese)第5-8章
+  - [Machine Learning 课程](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.php)（[b站课程视频链接](https://www.bilibili.com/video/BV1JA411c7VT/?spm_id_from=333.337.search-card.all.click&vd_source=f8d2d69e1c87d70ef7ffd9abafeacae8)）, 李宏毅
 
 ---
 
