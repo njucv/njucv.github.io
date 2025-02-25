@@ -1,1 +1,1 @@
-# njucv.github.io
+# 模式识别与计算机视觉
