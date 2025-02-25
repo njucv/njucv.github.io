@@ -8,7 +8,7 @@
 ### Topic 1：Introduction to Deep Learning
 - **课程时间**：2025年2月27日
 - **课程助教**：杨旖纯
-- **课程PPT**：[第1次课PPT链接](#)
+- **课程PPT**：[第1次课PPT链接](https://box.nju.edu.cn/f/4fc37262b4ae4870b0ad/)
 - **推荐阅读**：
   - TBD
 
