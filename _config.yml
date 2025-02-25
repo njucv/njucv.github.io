@@ -3,7 +3,7 @@ baseurl: ""  # 确保这是空的，避免路径问题
 
 markdown: kramdown  # 使用Markdown渲染引擎
 
-theme: minima # jekyll-theme-cayman  # 使用Jekyll内置的主题
+theme: jekyll-theme-cayman  # 使用Jekyll内置的主题
 
 # 强制显示 README.md 内容
 exclude:
