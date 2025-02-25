@@ -1,11 +1,9 @@
-title: "我的GitHub页面"  # 页面标题（可以根据需要自定义）
-description: "这是我的GitHub页面，用于展示课程内容。"  # 页面描述（可选）
+title: ""  # 页面标题
 baseurl: ""  # 确保这是空的，避免路径问题
-url: "https://你的GitHub用户名.github.io/仓库名"  # 你的GitHub Pages URL（无需包含 https://，只需用相对路径）
 
 markdown: kramdown  # 使用Markdown渲染引擎
 
-theme: jekyll-theme-cayman  # 使用Jekyll内置的主题，可以根据需要选择其他主题
+theme: jekyll-theme-cayman  # 使用Jekyll内置的主题
 
 # 强制显示 README.md 内容
 exclude:
