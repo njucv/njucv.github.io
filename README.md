@@ -9,7 +9,7 @@
 ### Topic 1：Introduction to Deep Learning
 - **课程时间**：2025年2月27日
 - **课程助教**：杨旖纯
-- **课程PPT**：[第1次课PPT链接](#)
+- **课程PPT**：[第1次课PPT链接](https://box.nju.edu.cn/f/32894ff68e3144eebfc3/)
 - **推荐学习资源**：
   - 斯坦福大学[CS231n](https://cs231n.stanford.edu/)课程，Deep Learning for Computer Vision，李飞飞
   - [《深度学习》花书](https://github.com/exacity/deeplearningbook-chinese)第5-8章
@@ -26,7 +26,7 @@
 
 ---
 
-### Topic 3：Tracking in the Wild
+### Topic 3：Detection and Tracking in the Wild
 - **课程时间**：2025年3月27日
 - **课程助教**：高若朋
 - **课程PPT**：[第3次课PPT链接](#)
