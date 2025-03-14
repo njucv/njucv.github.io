@@ -20,7 +20,7 @@
 ### Topic 2： CNN and Transformer Architectures
 - **课程时间**：2025年3月13日
 - **课程助教**：吴涛
-- **课程PPT**：[第2次课PPT链接](#https://box.nju.edu.cn/f/83466d6a1c0f41c6bbb9/)
+- **课程PPT**：[第2次课PPT链接](https://box.nju.edu.cn/f/83466d6a1c0f41c6bbb9/)
 - **推荐阅读**：
   - Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton. "Imagenet classification with deep convolutional neural networks." Advances in neural information processing systems 25 (2012).
   - He, Kaiming, et al. "Deep residual learning for image recognition." Proceedings of the IEEE conference on computer vision and pattern recognition. 2016.
