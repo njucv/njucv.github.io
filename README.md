@@ -34,12 +34,25 @@
 
 ---
 
-### Topic 3：Detection and Tracking in the Wild
+### Topic 3：Video Understanding: From Video Foundation Model to Fine-grained Understanding
 - **课程时间**：2025年3月27日
-- **课程助教**：高若朋
-- **课程PPT**：第3次课PPT链接
+- **课程助教**：许一凡
+- **课程PPT**：[第3次课PPT链接](https://box.nju.edu.cn/f/4515084dc69a4ca89be7/)
 - **推荐阅读**：
-  - TBD
+  - [1] An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale [ICLR 2021]
+  - [2] Is Space-Time Attention All You Need for Video Understanding? [ICML 2021]
+  - [3] Improving Language Understanding by Generative Pre-Training [2018]
+  - [4] BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding [2019]
+  - [5] Masked Autoencoders Are Scalable Vision Learners [CVPR 2022]
+  - [6] VideoMAE: Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training [NeurIPS 2022]
+  - [7] Learning Transferable Visual Models From Natural Language Supervision [ICML 2021]
+  - [8] Unmasked Teacher: Towards Training-Efficient Video Foundation Models [ICCV 2023]
+  - [9] InternVideo2: Scaling Foundation Models for Multimodal Video Understanding [ECCV 2025]
+  - [10] Visual Instruction Tuning [NeurIPS 2023]
+  - [11] Long-CLIP: Unlocking the Long-Text Capability of CLIP [ECCV 2024]
+  - [12] AuroraCap: Efficient, Performant Video Detailed Captioning and a New Benchmark [2024]
+  - [13] Tarsier: Recipes for Training and Evaluating Large Video Description Models [2024]
+  - [14] CaReBench: A Fine-Grained Benchmark for Video Captioning and Retrieval [2025]
 
 ---
 
@@ -52,9 +65,9 @@
 
 ---
 
-### Topic 5：Fine-grained Video Understanding
+### Topic 5：Detection and Tracking in the Wild
 - **课程时间**：2025年4月24日
-- **课程助教**：许一凡
+- **课程助教**：高若朋
 - **课程PPT**：第5次课PPT链接
 - **推荐阅读**：
   - TBD
