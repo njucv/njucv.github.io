@@ -161,7 +161,7 @@
 ### Topic 7: Advances in Visual Generation
 - **课程时间**：2025年5月22日
 - **课程助教**：陈阳
-- **课程PPT**：[第7次课PPT链接](https://box.nju.edu.cn/f/fdf1abec750a4cc38ea8/)
+- **课程PPT**：[第7次课PPT链接](https://box.nju.edu.cn/f/bf208f181e754a80bc17/)
 - **推荐阅读**：
   - MIT EECS6.S978: Deep Generative Model, Kaiming He, https://mit-6s978.github.io/
   - Machine Learning, Hung-yi Lee, https://speech.ee.ntu.edu.tw/~hylee/ml/2025-spring.php
