@@ -178,7 +178,7 @@
 ### Topic 8: Advances in Skill Learning and Embodied Intelligence
 - **课程时间**：2025年6月5日
 - **课程助教**：吴益露
-- **课程PPT**：[第8次课PPT链接](https://box.nju.edu.cn/f/5c34f8433586483fb692/)
+- **课程PPT**：[第8次课PPT链接](https://box.nju.edu.cn/f/af0f395d4a964e938b0b/)
 - **推荐阅读**：
   - Weakly-Supervised Action Segmentation and Alignment via Transcript-Aware Union-of-Subspaces Learning (ICCV2021)
   - Set-Supervised Action Learning in Procedural Task Videos via Pairwise Order Consistency (CVPR2022)
