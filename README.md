@@ -37,7 +37,7 @@
 ### Topic 3：Video Understanding: From Video Foundation Model to Fine-grained Understanding
 - **课程时间**：2025年3月27日
 - **课程助教**：许一凡
-- **课程PPT**：[第3次课PPT链接](https://box.nju.edu.cn/f/4515084dc69a4ca89be7/)
+- **课程PPT**：[第3次课PPT链接](https://box.nju.edu.cn/f/d6f0bb894b4b49de87f8/)
 - **推荐阅读**：
   - [1] An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale [ICLR 2021]
   - [2] Is Space-Time Attention All You Need for Video Understanding? [ICML 2021]
